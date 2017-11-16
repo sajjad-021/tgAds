@@ -28,7 +28,7 @@
 
    To install everything in one command (useful for VPS deployment) on Ubuntu 16.04 x64 (Debian-based distros), use:
 ```bash
-   git clone https://github.com/tgMember/tgAds.git && cd tgAds && bash TG 
+   git clone https://github.com/sajjad-021/tgAds.git && cd tgAds && bash TG 
 ```
 
 ##### _OR_
